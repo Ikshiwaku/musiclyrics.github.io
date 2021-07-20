@@ -97,7 +97,7 @@ text-align:justify;
 }
 
 .background{
-	background: rgba(0,0,0,0.7) url('img/background1.jpg');
+	background: rgba(0,0,0,0.7) url('https://github.com/Ikshiwaku/musiclyrics.github.io/blob/f32a83d632e310ba3229394945b7fe2382e8ba65/img/background1.jpg');
 	background-size: cover;
 	background-blend-mode: darken;
 }
