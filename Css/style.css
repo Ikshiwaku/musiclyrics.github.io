@@ -97,7 +97,7 @@ text-align:justify;
 }
 
 .background{
-	background: rgba(0,0,0,0.7) url('background1.jpg');
+	background: rgba(0,0,0,0.7) url('Css/background1.jpg');
 	background-size: cover;
 	background-blend-mode: darken;
 }
