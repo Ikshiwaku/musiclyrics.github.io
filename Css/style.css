@@ -97,7 +97,7 @@ text-align:justify;
 }
 
 .background{
-	background: rgba(0,0,0,0.7) url('img/abc.jpg');
+	background: rgba(0,0,0,0.7) url('../img/abc.jpg');
 	background-size: cover;
 	background-blend-mode: darken;
 }
