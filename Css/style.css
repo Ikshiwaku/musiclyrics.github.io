@@ -43,6 +43,7 @@ text-align:justify;
 	width:150px;
 	height:150px;
 	border:2px solid black;
+	z-index:-1;
 }
 
 .navbar{
@@ -234,6 +235,7 @@ text-align:justify;
 .trend{
 	display:flex;
 	max-width:100%;
+	z-index:-1;
 	
 }
 
@@ -245,6 +247,7 @@ text-align:justify;
 	margin-top:2%;
 	margin-bottom:4%;
 	padding: 0px 3%;
+	z-index:-1;
 }
 
 .secRight2{
@@ -429,6 +432,7 @@ text-align:center;
 	margin-top:4%;
 	margin-bottom:4%;
 	padding: 0px 20%;
+	z-index:-1;
 }
 	
 	.hredit{
