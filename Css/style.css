@@ -12,6 +12,7 @@ html{
 	display: flex;
 	justify-content:center;
 	align-items:center;
+	z-index: 1;
 }
 
 .logo img{
@@ -19,6 +20,7 @@ html{
 
 	border: 3px solid white;
 	border-radius: 100%;
+	z-index: 1;
 }
 
 .section{
@@ -28,6 +30,7 @@ html{
 	color:black;
 	font-family:Arial;
 	font-weight:bold;
+	z-index: -1;
 }
 
 .sectionSubTag{
@@ -53,6 +56,7 @@ text-align:justify;
 	top:0;
 	align-items:center;
 	background-color:black;
+	z-index: 1;
 
 }
 
@@ -62,11 +66,13 @@ text-align:justify;
 	align-items : center; /* Horizontally centers the content */
 	display:flex;
 	padding: 10px 10px;
+	z-index: 1;
 }
 
 .nav-list li{
 	list-style: none;
 	padding: 10px 20px;
+	z-index: 1;
 	
 }
 
@@ -74,18 +80,21 @@ text-align:justify;
 	text-decoration:none;
 	color: white;
 	font-size:20px;
+	z-index: 1;
 }
 
 .nav-list li a:hover{
 	text-decoration:none;
 	color: yellow;
-	font-size:20px;
+	font-size:20px
+	z-index: 1;
 }
 
 .rightNav{
 	width:30%;
 	text-align: right;
 	padding-right:20px;
+	z-index: 1;
 	
 	
 }
@@ -95,6 +104,7 @@ text-align:justify;
 	font-size: 14px;
 	border: 2px solid grey;
 	border-radius:9px;
+	z-index: 1;
 }
 
 .background{
@@ -161,6 +171,7 @@ text-align:justify;
 	color:white;
 	cursor:pointer;
 	font-family:Arial;
+	z-index: 1;
 }
 
 .btn-dark{
